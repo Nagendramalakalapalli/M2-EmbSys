@@ -76,10 +76,10 @@ Smart watches present a unique set of challenges when it comes to design. They o
    - Microcontroller
      An integrated circuit that contains a microprocessor along with memory and associated circuits and those controls some or all the functions of an electronic device (such as a home appliance) or system.
 
-    - Bluetooth
+   -  Bluetooth
     Bluetooth is an open wireless technology standard for transmitting fixed and mobile electronic device data over short distances.
 
-    - RFID Reader
+   - RFID Reader
     An RFID reader is a radio frequency device that emits a signal through an antenna. This signal is received by RFID tags that respond to interrogation by the reader. Responses are read by the reader, and through a variety of protocols the reader can communicate with all the RFID tags in its field.
 
     - DAC
