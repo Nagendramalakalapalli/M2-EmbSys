@@ -97,5 +97,34 @@ LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid c
 * ###### Real Time Clock
 A real-time clock (RTC) is a battery-powered clock that is included in a microchip in a computer motherboard.
 
+* ###### Memory
+Memory is an important part of embedded systems. The cost and performance of an embedded system heavily depends on the kind of memory devices it utilizes.
+
+* ###### RAM
+Random access memory (RAM) is a computer's short-term memory, which it uses to handle all active tasks and apps. It is a hardware device generally located on the motherboard of a computer and acts as an internal memory of the CPU. 
+
+* ###### EEPROM
+EEPROM stands for electrically erasable programmable read-only memory and is a type of non-volatile memory used in computers, integrated in microcontrollers for smart cards and remote keyless systems, and other electronic devices to store relatively small amounts of data by allowing individual bytes to be erased and reprogrammed.
+
+# ###### Power Management Unit
+The PMU is a microcontroller, or integrated circuit, that controls the power functions of Macintosh computers. Though it is not a large component, the PMU contains several parts, including memory, software, firmware, and its own CPU. 
+
+* ###### Pulse Sensor
+A pulse wave is the change in the volume of a blood vessel that occurs when the heart pumps blood, and a detector that monitors this volume change is called a pulse sensor.
+
+* ###### Temperature Sensor
+A temperature sensor is a device that is designed to measure the degree of hotness or coolness in an object. The working of a temperature meter depends upon the voltage across the diode.
+
+* ###### Pressure Sensor
+A pressure sensor is an instrument consisting of a pressure sensitive element to determine the actual pressure applied to the sensor and some components to convert this information into an output signal.
+
+* ###### Accelerometer Sensor
+An accelerometer is an electromechanical device that is used to measure acceleration forces. Such forces may be static like the force of gravity or, they may be dynamic as in the case of mobile devices.
+
+* ###### Step Counter Sensor
+The step counter sensor provides the number of steps taken by the user since the last reboot while the sensor was activated.
+
+* ###### Humidity sensor
+Humidity sensors are electronic devices enabling you to measure the environment’s humidity and convert the data into a corresponding electrical signal that can be used for different purposes.
 
 
