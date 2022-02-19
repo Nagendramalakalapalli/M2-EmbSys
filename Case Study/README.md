@@ -37,7 +37,8 @@ Smart watches present a unique set of challenges when it comes to design. They o
 ## Sub-System Design
    
    - Pulse sensor
-![Pulse sensor](https://user-images.githubusercontent.com/82401251/154805019-95da554f-2f97-47f2-a94d-bd501b355885.jpg)
+
+    ![Pulse sensor](https://user-images.githubusercontent.com/82401251/154805019-95da554f-2f97-47f2-a94d-bd501b355885.jpg)
 
    - Temperature sensor
 ![Temperature sensor](https://user-images.githubusercontent.com/82401251/154805033-d7886a91-5b5f-4724-8d3b-3712fea39b9b.jpg)
