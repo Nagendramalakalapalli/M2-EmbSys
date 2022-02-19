@@ -36,37 +36,37 @@ Smart watches present a unique set of challenges when it comes to design. They o
 
 ## Sub-System Design
    
-###### Pulse sensor
+- ###### Pulse sensor
 ![Pulse sensor](https://user-images.githubusercontent.com/82401251/154805019-95da554f-2f97-47f2-a94d-bd501b355885.jpg)
 
-###### Temperature sensor
+- ###### Temperature sensor
 ![Temperature sensor](https://user-images.githubusercontent.com/82401251/154805033-d7886a91-5b5f-4724-8d3b-3712fea39b9b.jpg)
 
-###### Accelerometer Sensor
+- ###### Accelerometer Sensor
 ![Accelerometer sensor](https://user-images.githubusercontent.com/82401251/154805041-b6eba80f-51b1-4d69-a9d7-5e959d14a451.jpg)
 
-###### Humidity Sensor
+- ###### Humidity Sensor
 ![Humidity sensor](https://user-images.githubusercontent.com/82401251/154805056-71397a01-7c93-4fbb-bed7-f0dba4a73682.jpg)
 
-###### Bluetooth Module
+- ###### Bluetooth Module
 ![Bluetooth solution-Page-3](https://user-images.githubusercontent.com/82401251/154805421-531f13c2-5f71-4cc1-8db0-66cf73451c4a.jpg)
 
-###### RFID Reader
+- ###### RFID Reader
 ![RFID](https://user-images.githubusercontent.com/82401251/154805540-d4006ef8-678d-4b62-b734-fa2b3e82eadf.jpg)
 
-###### NFC (Near Field Technology)
+- ###### NFC (Near Field Technology)
 ![NFC](https://user-images.githubusercontent.com/82401251/154805550-4f2a9c09-aab4-42af-9aa2-3417b8f512c5.jpg)
 
-###### RTC (Real Time Clock)
+- ###### RTC (Real Time Clock)
 ![Real Time Clock](https://user-images.githubusercontent.com/82401251/154805572-7c1831fc-5772-465c-bfa2-bd1a3c50e8a1.jpg)
 
-###### Power Management Unit
+- ###### Power Management Unit
 ![power supply unit-Page-2](https://user-images.githubusercontent.com/82401251/154805585-dc799de7-c373-4e6d-8db4-7b9818337ed2.jpg)
 
-###### Vibration Motor
+- ###### Vibration Motor
 ![Vibration Motor](https://user-images.githubusercontent.com/82401251/154805592-204b8e89-43da-4205-9ffb-527ecc3032f9.jpg)
 
-###### Display
+- ###### Display
 ![Bluetooth solution-Page-4](https://user-images.githubusercontent.com/82401251/154805595-9289ff54-0a6d-493c-9c94-bc0e085c3bfc.jpg)
 
 
