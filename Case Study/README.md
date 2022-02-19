@@ -106,7 +106,7 @@ Random access memory (RAM) is a computer's short-term memory, which it uses to h
 * ###### EEPROM
 EEPROM stands for electrically erasable programmable read-only memory and is a type of non-volatile memory used in computers, integrated in microcontrollers for smart cards and remote keyless systems, and other electronic devices to store relatively small amounts of data by allowing individual bytes to be erased and reprogrammed.
 
-# ###### Power Management Unit
+* ###### Power Management Unit
 The PMU is a microcontroller, or integrated circuit, that controls the power functions of Macintosh computers. Though it is not a large component, the PMU contains several parts, including memory, software, firmware, and its own CPU. 
 
 * ###### Pulse Sensor
