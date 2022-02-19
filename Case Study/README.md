@@ -1,9 +1,10 @@
 # **SMART WATCH**
 
-## Introduction
+## INTRODUCTION
 Smart watches present a unique set of challenges when it comes to design. They offer a feature-set that goes far beyond what is found in traditional watches but come with expectations of a similar form factor.The features offered by the latest smart watches include application and notification syncing with a smartphone, fitness and health monitoring, location service, voice commands and wireless charging.
 
-## Requirements 
+
+## REQUIREMENTS 
  - High Level Requirements
 
    |HLR_ID|Description|
@@ -29,12 +30,15 @@ Smart watches present a unique set of challenges when it comes to design. They o
    |LLR10_HLR03|Near Field Technology|
    |LLR11_HLR04|Display|
    |LLR12_HLR04|Vibration Motor|
+   
 
-## System Design
+## SYSTEM DESIGN
    
    ![Smart watch](https://user-images.githubusercontent.com/82401251/154804772-110aa88e-ae3d-4ea2-b2d7-4268439431b3.jpg)
 
-## Sub-System Design
+
+
+## SUB-SYSTEM DESIGN
    
 - ###### Pulse sensor
 ![Pulse sensor](https://user-images.githubusercontent.com/82401251/154805019-95da554f-2f97-47f2-a94d-bd501b355885.jpg)
