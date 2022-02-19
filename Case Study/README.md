@@ -73,29 +73,29 @@ Smart watches present a unique set of challenges when it comes to design. They o
 
 ## Components Description
   
-* Microcontroller
+* ###### Microcontroller
 An integrated circuit that contains a microprocessor along with memory and associated circuits and those controls some or all the functions of an electronic device (such as a home appliance) or system.
 
-* Bluetooth
+* ###### Bluetooth
 Bluetooth is an open wireless technology standard for transmitting fixed and mobile electronic device data over short distances.
 
-* RFID Reader
+* ###### RFID Reader
 An RFID reader is a radio frequency device that emits a signal through an antenna. This signal is received by RFID tags that respond to interrogation by the reader. Responses are read by the reader, and through a variety of protocols the reader can communicate with all the RFID tags in its field.
 
-* DAC
+* ###### DAC
 Digital-to-Analog Converter (DAC) is a device for converting Digital signals into corresponding Analog signals.
 
-* ADC
+* ###### ADC
 Analog-to-Digital Converter (ADC) is a device for converting Analog signals into corresponding Digital signals.
 
-* Vibration motor
+* ###### Vibration motor
 Vibration motor is a coreless DC motor, and the size of this motor is compact. The main purpose of this motor is to alert the user from receiving the call by without sound/vibrating. These motors are applicable for different applications like pagers, handsets, cell phones, etc.
 
-* LCD
+* ###### LCD
 LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid crystals in its primary form of operation. LEDs have a large and varying set of use cases for consumers and businesses, as they can be commonly found in smartphones, televisions, computer monitors and instrument panels.
 
-* Real Time Clock
- A real-time clock (RTC) is a battery-powered clock that is included in a microchip in a computer motherboard.
+* ###### Real Time Clock
+A real-time clock (RTC) is a battery-powered clock that is included in a microchip in a computer motherboard.
 
 
 
