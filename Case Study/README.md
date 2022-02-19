@@ -6,29 +6,29 @@ Smart watches present a unique set of challenges when it comes to design. They o
 ## Requirements 
  - High Level Requirements
 
-   |S.No|HLR_ID|Description|
-   ---|---|---|
-   |1|HLR01| Accuracy of the sensors|
-   |2|HLR02| How fast the controller receives data|
-   |3|HLR03| Connectivity Testing|
-   |4|HLR04| How well the display can show the received data|
+   |HLR_ID|Description|
+   ---|---|
+   |HLR01| Accuracy of the sensors|
+   |HLR02| How fast the controller receives data|
+   |HLR03| Connectivity Testing|
+   |HLR04| How well the display can show the received data|
 
 - Low Level Requirements
 
-   |S.No|LLR_ID|Description| 
-   ---|---|---|
-   |1|LLR01_HLR01|Pulse sensor|
-   |2|LLR01_HLR01|Temperature sensor|
-   |3|LLR01_HLR01|Accelerometer sensor|
-   |4|LLR01_HLR01|Step counter sensor|
-   |5|LLR01_HLR01|Humidity sensor|
-   |6|LLR01_HLR01|Microcontroller |
-   |7|LLR01_HLR01|Bluetooth Module|
-   |8|LLR01_HLR01|RFID reader|
-   |9|LLR01_HLR01|Real Time clock|
-   |10|LLR01_HLR01|Near Field Technology|
-   |11|LLR01_HLR01|Display|
-   |12|LLR01_HLR01|Vibration Motor|
+   |LLR_ID|Description| 
+   ---|---|
+   |LLR01_HLR01|Pulse sensor|
+   |LLR02_HLR01|Temperature sensor|
+   |LLR03_HLR01|Accelerometer sensor|
+   |LLR04_HLR01|Step counter sensor|
+   |LLR05_HLR01|Humidity sensor|
+   |LLR06_HLR02|Microcontroller |
+   |LLR07_HLR03|Bluetooth Module|
+   |LLR08_HLR03|RFID reader|
+   |LLR09_HLR03|Real Time clock|
+   |LLR10_HLR03|Near Field Technology|
+   |LLR11_HLR04|Display|
+   |LLR12_HLR04|Vibration Motor|
 
 ## System Design
    
