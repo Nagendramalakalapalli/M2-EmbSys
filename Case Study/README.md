@@ -135,6 +135,7 @@ The step counter sensor provides the number of steps taken by the user since the
 Humidity sensors are electronic devices enabling you to measure the environmentâ€™s humidity and convert the data into a corresponding electrical signal that can be used for different purposes.
 
 
+
 ## SUB-SYSTEM TESTING
 
 |Test_ID|Sub-System Test Cases|
@@ -162,6 +163,7 @@ Humidity sensors are electronic devices enabling you to measure the environmentâ
 |TC21|Check the information displayed in the display panel is correct.|
 |TC22|Check effect of water and oil and other liquid on Display.|
   
+
 
 ## SYSTEM TESTING
 
