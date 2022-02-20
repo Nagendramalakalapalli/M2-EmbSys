@@ -7,7 +7,7 @@ Smart watches present a unique set of challenges when it comes to design. They o
 ## REQUIREMENTS 
  - High Level Requirements
 
-   |HLR_ID|Description|
+   |HLR_ID|High level requirements|
    ---|---|
    |HLR01| Accuracy of the sensors|
    |HLR02| How fast the controller receives data|
@@ -16,7 +16,7 @@ Smart watches present a unique set of challenges when it comes to design. They o
 
 - Low Level Requirements
 
-   |LLR_ID|Description| 
+   |LLR_ID|Low level requirements| 
    ---|---|
    |LLR01_HLR01|Pulse sensor|
    |LLR02_HLR01|Temperature sensor|
@@ -86,6 +86,9 @@ Bluetooth is an open wireless technology standard for transmitting fixed and mob
 * ###### RFID Reader
 An RFID reader is a radio frequency device that emits a signal through an antenna. This signal is received by RFID tags that respond to interrogation by the reader. Responses are read by the reader, and through a variety of protocols the reader can communicate with all the RFID tags in its field.
 
+* ###### NFC (Near Field Communication)
+NFC is a short-range high frequency wireless communication technology that enables the exchange of data between devices over about a 10 cm distance.
+
 * ###### DAC
 Digital-to-Analog Converter (DAC) is a device for converting Digital signals into corresponding Analog signals.
 
@@ -132,3 +135,39 @@ The step counter sensor provides the number of steps taken by the user since the
 Humidity sensors are electronic devices enabling you to measure the environment’s humidity and convert the data into a corresponding electrical signal that can be used for different purposes.
 
 
+## SUB-SYSTEM TESTING
+
+|Test_ID|Sub-System Test Cases|
+---|---|
+|TC01|Check the functionality of the on/off button.|
+|TC02|Check Pulse sensor can detect the blood flow, pulse rate.|
+|TC03|Check Temperature sensor in different body conditions.|
+|TC04|Check Accelerometer sensor can detect moving position, rest position.|
+|TC05|Check Step count sensor can detect steps (Walk, Run, Cycling).|
+|TC06|Check Humidity sensor in different climate change (Moisture, Dry).|
+|TC07|Check Smartwatch connects with your mobile or not.|
+|TC08|Check Bluetooth device range when it is highly covered.|
+|TC09|Check Bluetooth device range when it is partially covered.|
+|TC10|Check RFID Tag is being detected by device.|
+|TC11|Check NFC range and accurate it connects.|
+|TC12|Check RTC for tracking the current date and time.|
+|TC13|Check Alarm function is working fine or not.|
+|TC14|Check Power Management unit status for high power.|
+|TC15|Check Power Management unit status for low powe.|
+|TC16|Check Battery is chargeable or not.|
+|TC17|Check the time of a Power cell works in the watch.|
+|TC18|Check Vibration motor when turned ON/OFF.|
+|TC19|Check vibration motor when some notifications.|
+|TC20|Check if the display isn’t too bright or too dark.|
+|TC21|Check the information displayed in the display panel is correct.|
+|TC22|Check effect of water and oil and other liquid on Display.|
+  
+
+## SYSTEM TESTING
+
+|TEST_ID| System Test cases|
+---|---|
+|TC01| Check how sensors work accurately.|
+|TC02| Check how fast the Micro controller receives data.|
+|TC03| Check the Bluetooth, NFC, RFID connectivity.|
+|TC04| Check how well the display can show the received data.|
