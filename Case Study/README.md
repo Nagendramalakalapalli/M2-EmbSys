@@ -173,3 +173,22 @@ Humidity sensors are electronic devices enabling you to measure the environmentâ
 |TC02| Check how fast the Micro controller receives data.|
 |TC03| Check the Bluetooth, NFC, RFID connectivity.|
 |TC04| Check how well the display can show the received data.|
+
+
+
+## Applications
+
+- Time-related features
+- Smart features
+- Health management
+- Navigation
+- Notifications
+- Fashionable
+
+
+
+## References
+
+[Smart Watch](https://en.wikipedia.org/wiki/Smartwatch)
+[Samrt Watch](https://ieeexplore.ieee.org/document/8123790)
+[Smart Watch](https://ieeexplore.ieee.org/abstract/document/7972266/)
