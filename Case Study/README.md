@@ -189,6 +189,6 @@ Humidity sensors are electronic devices enabling you to measure the environmentâ
 
 ## References
 
-[Smart Watch](https://en.wikipedia.org/wiki/Smartwatch)
-[Samrt Watch](https://ieeexplore.ieee.org/document/8123790)
-[Smart Watch](https://ieeexplore.ieee.org/abstract/document/7972266/)
+- [Smart Watch](https://en.wikipedia.org/wiki/Smartwatch)
+- [Samrt Watch](https://ieeexplore.ieee.org/document/8123790)
+- [Smart Watch](https://ieeexplore.ieee.org/abstract/document/7972266/)
