@@ -11,9 +11,9 @@ Nowadays, the humankind is moving towards the new technologies by replacing the 
 
 ## **REQUIREMENTS**
 
- - **HIGH LEVEL REQUIREMENTS**
+- **HIGH LEVEL REQUIREMENTS**
 
-   |HLR_ID|High level Description|
+  |HLR_ID|High level Description|
   ---|---|
   |HLR01|It shall have a Sensor|
   |HLR02|It shall have a Microcontroller|
@@ -42,17 +42,18 @@ Nowadays, the humankind is moving towards the new technologies by replacing the 
 
 
 ## **SUB-SYSTEM DESIGN**
-- Temperature Sensor
-  ![Temp_sensor](https://user-images.githubusercontent.com/82401251/155829430-69dfbdf4-8e18-479d-82a5-5890bdd63461.jpg)
 
-- Motor Driver
-  ![Motor_Driver](https://user-images.githubusercontent.com/82401251/155829441-028f8f0d-8781-414c-803c-7326ae053076.jpg)
+- ###### Temperature Sensor
+![Temp_sensor](https://user-images.githubusercontent.com/82401251/155829430-69dfbdf4-8e18-479d-82a5-5890bdd63461.jpg)
 
-- DC motor
-  ![DC_Motor](https://user-images.githubusercontent.com/82401251/155829443-ef79445e-574d-4c23-baef-0e214194746f.jpg)
-  
-- LCD Display
-  ![LCD_Display](https://user-images.githubusercontent.com/82401251/155829447-29c77360-9d51-42b6-aefa-786347ccd581.jpg)
+- ###### Motor Driver
+![Motor_Driver](https://user-images.githubusercontent.com/82401251/155829441-028f8f0d-8781-414c-803c-7326ae053076.jpg)
+
+- ###### DC motor
+![DC_Motor](https://user-images.githubusercontent.com/82401251/155829443-ef79445e-574d-4c23-baef-0e214194746f.jpg)
+
+- ###### LCD Display
+![LCD_Display](https://user-images.githubusercontent.com/82401251/155829447-29c77360-9d51-42b6-aefa-786347ccd581.jpg)
 
 
 
