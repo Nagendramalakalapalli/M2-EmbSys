@@ -10,21 +10,25 @@ Nowadays, the humankind is moving towards the new technologies by replacing the 
 
 
 ## **REQUIREMENTS**
-- **HIGH LEVEL REQUIREMENTS**
-|HLR_ID|High level Description|
----|---|
-|HLR01|It shall have a Sensor|
-|HLR02|It shall have a Microcontroller|
-|HLR03|It shall have a Fan|
-|HLR04|It shall have a Display|
+
+ - **HIGH LEVEL REQUIREMENTS**
+
+   |HLR_ID|High level Description|
+  ---|---|
+  |HLR01|It shall have a Sensor|
+  |HLR02|It shall have a Microcontroller|
+  |HLR03|It shall have a Fan|
+  |HLR04|It shall have a Display|
 
 - **LOW LEVEL REQUIREMENTS**
-|LLR_ID|Low level Description|
-|HLR01_LLR01|It shall have a Temperature sensor(LM35) to measure the temperature of the room|
-|HLR02_LLR02|It shall have a Microcontroller(ATmega328) to recieve/transmit the data|
-|HLR03_LLR03|It shall have a Motor Driver to drive the motor|
-|HLR03_LLR04|It shall have a Motor to Spin the fan|
-|HLR04_LLR05|It shall have a LCD Display(16X2) to display the temperture of the room| 
+
+  |LLR_ID|Low level Description|
+  ---|---|
+  |HLR01_LLR01|It shall have a Temperature sensor(LM35) to measure the temperature of the room|
+  |HLR02_LLR02|It shall have a Microcontroller(ATmega328) to recieve/transmit the data|
+  |HLR03_LLR03|It shall have a Motor Driver to drive the motor|
+  |HLR03_LLR04|It shall have a Motor to Spin the fan|
+  |HLR04_LLR05|It shall have a LCD Display(16X2) to display the temperture of the room| 
 
 
 
@@ -39,13 +43,16 @@ Nowadays, the humankind is moving towards the new technologies by replacing the 
 
 ## **SUB-SYSTEM DESIGN**
 - Temperature Sensor
-![Temp_sensor](https://user-images.githubusercontent.com/82401251/155829430-69dfbdf4-8e18-479d-82a5-5890bdd63461.jpg)
+  ![Temp_sensor](https://user-images.githubusercontent.com/82401251/155829430-69dfbdf4-8e18-479d-82a5-5890bdd63461.jpg)
+
 - Motor Driver
-![Motor_Driver](https://user-images.githubusercontent.com/82401251/155829441-028f8f0d-8781-414c-803c-7326ae053076.jpg)
+  ![Motor_Driver](https://user-images.githubusercontent.com/82401251/155829441-028f8f0d-8781-414c-803c-7326ae053076.jpg)
+
 - DC motor
-![DC_Motor](https://user-images.githubusercontent.com/82401251/155829443-ef79445e-574d-4c23-baef-0e214194746f.jpg)
+  ![DC_Motor](https://user-images.githubusercontent.com/82401251/155829443-ef79445e-574d-4c23-baef-0e214194746f.jpg)
+  
 - LCD Display
-![LCD_Display](https://user-images.githubusercontent.com/82401251/155829447-29c77360-9d51-42b6-aefa-786347ccd581.jpg)
+  ![LCD_Display](https://user-images.githubusercontent.com/82401251/155829447-29c77360-9d51-42b6-aefa-786347ccd581.jpg)
 
 
 
