@@ -18,18 +18,18 @@ Smart watches present a unique set of challenges when it comes to design. They o
 
    |LLR_ID|Low level requirements| 
    ---|---|
-   |LLR01_HLR01|Pulse sensor|
-   |LLR02_HLR01|Temperature sensor|
-   |LLR03_HLR01|Accelerometer sensor|
-   |LLR04_HLR01|Step counter sensor|
-   |LLR05_HLR01|Humidity sensor|
-   |LLR06_HLR02|Microcontroller |
-   |LLR07_HLR03|Bluetooth Module|
-   |LLR08_HLR03|RFID reader|
-   |LLR09_HLR03|Real Time clock|
-   |LLR10_HLR03|Near Field Technology|
-   |LLR11_HLR04|Display|
-   |LLR12_HLR04|Vibration Motor|
+   |LLR01_HLR01|It shall have Pulse sensor to detect the blood pulse|
+   |LLR02_HLR01|It shall have Temperature sensor to measure the temperature|
+   |LLR03_HLR01|It shall have Accelerometer sensor to measure the static force|
+   |LLR04_HLR01|It shall have Step counter sensor to count our Activity|
+   |LLR05_HLR01|It shall have Humidity sensor to detect humidity|
+   |LLR06_HLR02|It shall have Microcontroller |
+   |LLR07_HLR03|It shall have Bluetooth Module to connect mobile|
+   |LLR08_HLR03|It shall have RFID reader to detect the device|
+   |LLR09_HLR03|It shall have Real Time clock|
+   |LLR10_HLR03|It shall have Near Field Technology to connect fast|
+   |LLR11_HLR04|It shall have Display to display the screen|
+   |LLR12_HLR04|It shall have Motor for vibration|
    
 
 ## SYSTEM DESIGN
