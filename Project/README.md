@@ -31,20 +31,24 @@ Nowadays, the humankind is moving towards the new technologies by replacing the 
   |HLR04_LLR05|It shall have a LCD Display(16X2) to display the temperture of the room| 
 
 
-
 ## **BLOCK DIAGRAM**
 
-![Block_Diagram](https://user-images.githubusercontent.com/82401251/155829374-2bc50693-b53f-44f0-a7a2-493ad50f98e9.jpg)
+![Block diagram](https://user-images.githubusercontent.com/82401251/156115015-84153921-dd31-4c30-94d8-e386cb172375.jpg)
+
 
 
 ## **SYSTEM DESIGN**
-![System_Design](https://user-images.githubusercontent.com/82401251/155829407-d175228f-532f-43ff-a1e6-623fe86b6f96.jpg)
+![System_Design_New](https://user-images.githubusercontent.com/82401251/156115103-a55acbcb-4d22-4f0c-ab5b-c9da5be39a08.jpg)
 
 
 ## **SUB-SYSTEM DESIGN**
 
 - ###### Temperature Sensor
 ![Temp_sensor](https://user-images.githubusercontent.com/82401251/155829430-69dfbdf4-8e18-479d-82a5-5890bdd63461.jpg)
+
+- ###### Digital Temperature Sensor
+![TC74 Blockdiagram](https://user-images.githubusercontent.com/82401251/156115223-d06eb693-a7f5-4ea3-aeb3-0b63d7616825.jpg)
+
 
 - ###### Motor Driver
 ![Motor_Driver](https://user-images.githubusercontent.com/82401251/155829441-028f8f0d-8781-414c-803c-7326ae053076.jpg)
@@ -57,6 +61,7 @@ Nowadays, the humankind is moving towards the new technologies by replacing the 
 
 
 
+
 ## **COMPONENT DESCRIPTION**
 
 -  ###### Microcontroller
@@ -64,6 +69,9 @@ An integrated circuit that contains a microprocessor along with memory and assoc
 
 -  ###### Temperature Sensor
 A temperature sensor is a device that is designed to measure the degree of hotness or coolness in an object. The working of a temperature meter depends upon the voltage across the diode.
+
+- ###### Digital Temperature Sensor
+The TC74 is a serially accessible, digital temperature sensor particularly suited for low cost and small formfactor applications. Temperature data is converted from the onboard thermal sensing element and made available as an 8-bit digital word.
 
 - ###### DC Motor
 A DC motor is an electrical machine that converts electrical energy into mechanical energy. In a DC motor, the input electrical energy is the direct current which is transformed into the mechanical rotation.
@@ -73,7 +81,6 @@ The motor driver IC is an integrated circuit chip used as a motor controlling de
 
 - ###### LCD
 LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid crystals in its primary form of operation. LEDs have a large and varying set of use cases for consumers and businesses, as they can be commonly found in smartphones, televisions, computer monitors and instrument panels.
-
 
 
 ## **ADVANTAGES**
