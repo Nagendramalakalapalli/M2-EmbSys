@@ -1,14 +1,3 @@
-/**
- * @file Main.c
- * @author Malakalapalli Nagendra
- * @brief 
- * @version 0.1
- * @date 2022-03-01
- * 
- * @copyright Copyright (c) 2022
- * 
- */
-
 #define F_CPU 800000UL
 
 #include <avr/io.h>
@@ -16,8 +5,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <avr/interrupt.h>
-#include "LCD16x2.h"
-#include "ic2_Tc74.h"
+#include "lcd.h"
+#include "i2c_Tc74.h"
 
 int tempTC74;
 int tempLM35;

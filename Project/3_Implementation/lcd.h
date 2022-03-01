@@ -7,9 +7,15 @@
  @brief Basic routines for interfacing a HD44780U-based text LCD display
 */
 
+/*@{*/
+
+#if (__GNUC__ * 100 + __GNUC_MINOR__) < 303
+#error "This library requires AVR-GCC 3.3 or later, update to newer AVR-GCC compiler !"
+#endif
+
 #include <inttypes.h>
 #include <avr/pgmspace.h>
-
+#include<util/delay.h>
 /** 
  *  @name  Definitions for MCU Clock Frequency
  *  Adapt the MCU clock frequency in Hz to your target. 

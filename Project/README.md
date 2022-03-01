@@ -38,8 +38,7 @@ Nowadays, the humankind is moving towards the new technologies by replacing the 
 
 
 ## **SYSTEM DESIGN**
-![System_Design_New](https://user-images.githubusercontent.com/82401251/156115103-a55acbcb-4d22-4f0c-ab5b-c9da5be39a08.jpg)
-
+![System_Design_New (1)](https://user-images.githubusercontent.com/82401251/156144583-f3b587f2-6b82-4e8c-b74f-8dd5eeca05de.jpg)
 
 ## **SUB-SYSTEM DESIGN**
 

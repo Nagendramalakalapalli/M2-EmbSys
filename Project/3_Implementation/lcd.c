@@ -1,7 +1,9 @@
 #include <inttypes.h>
 #include <avr/io.h>
 #include <avr/pgmspace.h>
-#include "lcd16x2.h"
+#include "lcd.h"
+
+
 
 /* 
 ** constants/macros 
@@ -61,10 +63,11 @@ static void toggle_e(void);
 ** local functions
 */
 
-/**
- * @brief delay loop for small accurate delays: 16-bit counter, 4 cycles/loop
- * 
- */
+
+
+/*************************************************************************
+ delay loop for small accurate delays: 16-bit counter, 4 cycles/loop
+*************************************************************************/
 static inline void _delayFourCycles(unsigned int __count)
 {
     if ( __count == 0 )    
@@ -79,12 +82,10 @@ static inline void _delayFourCycles(unsigned int __count)
 }
 
 
-
-/**
- * @brief delay for a minimum of <us> microseconds the number of loops is calculated at compile-time from MCU clock frequency
- * 
- */
-
+/************************************************************************* 
+delay for a minimum of <us> microseconds
+the number of loops is calculated at compile-time from MCU clock frequency
+*************************************************************************/
 #define delay(us)  _delayFourCycles( ( ( 1*(XTAL/4000) )*us)/1000 )
 
 
