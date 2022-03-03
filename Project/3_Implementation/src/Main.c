@@ -1,4 +1,8 @@
-#define F_CPU 800000UL
+
+
+#ifndef  __AVR_ATmega32__
+  #define __AVR_ATmega32__
+#endif
 
 #include <avr/io.h>
 #include <util/delay.h>
@@ -29,7 +33,7 @@ long absolute(long value) {
 
 void init_ADC()
 {
-	DDRA = 0xFF;        // Configure PortA as input
+	DDRA = 0x00;        // Configure PortA as input
 	ADCSRA = 0x8F;      // Enable ADC with clock pre-scalar to clk/128
 	ADMUX = 0xE0;       // Select internal 2.56V as Vref, left justify
                         // data registers and select ADC0 as input channel
