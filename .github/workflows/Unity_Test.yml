@@ -11,7 +11,10 @@ jobs:
 
     runs-on: ubuntu-latest
 
+ 
     steps:
     - uses: actions/checkout@v2
-    - name: make build_test
-      run: make -C 3_Implementation
+    - name: Install Cunit
+      run: sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
+    - name: make 
+      run:  make -C 3_Implementation/ test
