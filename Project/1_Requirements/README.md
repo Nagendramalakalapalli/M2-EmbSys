@@ -1,4 +1,4 @@
-# **AUTOMATIC ROOM TEMPERATURE CONTROLLER FAN SPEED**
+# **AUTOMATIC FAN SPEED CONTROL**
 
 ## **ABSTRACT**
 Now-a-day’s technology is running with time, it completely occupied the life style of human beings. Even though there is such an importance for technology in our routine life there are even people whose life styles are very far to this well known term technology. So it is our responsibility to design few reliable systems which can be even efficiently used by them. Automatic Room Temperature Controlled Fan Speed Controller is one of them. The developed system provides an environment in which no user needed to control the fan speed. Automatically control the fan speed by sensing the room temperature. These fascinating efforts to create intelligent system are to provide human being a more convenient life. The circuit was designed using electronic components available in local market to keep the cost at low level.
