@@ -55,17 +55,14 @@ hex: $(call FixPath,$(BUILD_DIR)/$(PROJ_NAME).elf)
 $(BUILD_DIR):
 	# Create directory to store the built files
 	mkdir $(BUILD_DIR)
+build_test : 
+	gcc $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
 
-analysis: $(SRC)
-	#Analyse the code using Cppcheck command line utility
-	cppcheck --enable=all $^
+run_test : build_test
+	./$(call FixPath,$(PROJ_NAME).$(EXEC))
+	
+static_analysis:
+	cppcheck --enable=all $(SRC)
 
-doc:
-	#Build the code code documentation using Doxygen command line utility
-	make -C documentation
-
-clean:
-	# Remove all the build files and generated document files
-	$(RM) $(call FixPath,$(BUILD_DIR)/*)
-	make -C documentation clean
-	rmdir $(BUILD_DIR)
+clear :
+	rm -r *.o *.elf *.hex *.out
