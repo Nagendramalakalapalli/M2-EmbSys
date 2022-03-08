@@ -1,3 +1,14 @@
+/**
+ * @file i2c_Tc74.c
+ * @author Malakalapalli Nagendra
+ * @brief 
+ * @version 0.1
+ * @date 2022-03-08
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #include <inttypes.h>
 #include <util/twi.h>
 

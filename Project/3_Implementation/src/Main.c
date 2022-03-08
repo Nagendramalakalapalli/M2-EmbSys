@@ -1,4 +1,13 @@
-
+/**
+ * @file Main.c
+ * @author Malakalapalli Nagendra
+ * @brief 
+ * @version 0.1
+ * @date 2022-03-08
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 
 #ifndef  __AVR_ATmega32__
   #define __AVR_ATmega32__

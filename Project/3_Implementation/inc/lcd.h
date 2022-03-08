@@ -1,13 +1,15 @@
+/**
+ * @file lcd.h
+ * @author Malakalapalli Nagendra
+ * @brief 
+ * @version 0.1
+ * @date 2022-03-08
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #ifndef LCD_H
 #define LCD_H
-
-/**
- @defgroup pfleury_lcd LCD library
- 
- @brief Basic routines for interfacing a HD44780U-based text LCD display
-*/
-
-/*@{*/
 
 #if (__GNUC__ * 100 + __GNUC_MINOR__) < 303
 #error "This library requires AVR-GCC 3.3 or later, update to newer AVR-GCC compiler !"
