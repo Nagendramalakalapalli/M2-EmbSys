@@ -11,9 +11,6 @@
 #ifndef LCD_H
 #define LCD_H
 
-#if (__GNUC__ * 100 + __GNUC_MINOR__) < 303
-#error "This library requires AVR-GCC 3.3 or later, update to newer AVR-GCC compiler !"
-#endif
 
 #include <inttypes.h>
 #include <avr/pgmspace.h>
