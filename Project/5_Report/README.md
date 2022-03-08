@@ -50,6 +50,10 @@ The temperature sensor LM35 senses the temperature and converts it into an elect
 ![Block diagram](https://user-images.githubusercontent.com/82401251/156115015-84153921-dd31-4c30-94d8-e386cb172375.jpg)
 
 
+## **FLOW CHART**
+
+![FLOW CHART (1)](https://user-images.githubusercontent.com/77672209/157167968-8d641a78-fa2c-47aa-a002-8536939590f6.jpg)
+
 
 ## **SYSTEM DESIGN**
 ![System_Design_New (1)](https://user-images.githubusercontent.com/82401251/156144583-f3b587f2-6b82-4e8c-b74f-8dd5eeca05de.jpg)
